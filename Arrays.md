@@ -19,5 +19,7 @@
 
 [1773 Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/solutions/4219240/array-1773-java-using-switch-best-runtime-beats-99-61-ak/)
 
-[1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/4564990/array-1732-java-beats-100-0-2-approaches-explained-ak/)
+[1732 Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/4564990/array-1732-java-beats-100-0-2-approaches-explained-ak/)
+
+[]()
 
