@@ -21,5 +21,14 @@
 
 [1732 Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/4564990/array-1732-java-beats-100-0-2-approaches-explained-ak/)
 
+[1480 Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/solutions/4341806/array-1480-java-beginner-beats-100-00-explained-ak/)
+
+[2114 Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/4488815/array-2114-java-basic-ak/)
+
+[2859 Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/solutions/4493921/array-2859-java-basic-ak/)
+
 []()
+
+
+
 
