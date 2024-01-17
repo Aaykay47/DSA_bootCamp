@@ -27,7 +27,9 @@
 
 [2859 Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/solutions/4493921/array-2859-java-basic-ak/)
 
-[]()
+[2974 Minimum Number Game](https://leetcode.com/problems/minimum-number-game/solutions/4569179/array-2974-java-basic-using-sort-explained-ak/)
+
+[2574 Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/solutions/4216975/array-2574-java-using-loops-ak/)
 
 
 
