@@ -33,8 +33,13 @@
 
 [1313 Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/solutions/4217506/array-1313-java-beginner-using-for-arrays-fill-arraycopy-ak/)
 
-[]()
+[1662 Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/4223440/array-1662-java-using-stringbuilder-or-join-beats-100-ak/)
 
+[1773 Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/solutions/4219240/array-1773-java-using-switch-best-runtime-beats-99-61-ak/)
+
+[1528 Shuffle String](https://leetcode.com/problems/shuffle-string/solutions/4217733/array-1528-java-using-hashmap-for-beginner-ak/)
+
+[]()
 
 
 
