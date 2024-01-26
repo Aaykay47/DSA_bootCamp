@@ -39,9 +39,9 @@
 
 [1528 Shuffle String](https://leetcode.com/problems/shuffle-string/solutions/4217733/array-1528-java-using-hashmap-for-beginner-ak/)
 
-[]()
+[1816 Truncate Sentence](https://leetcode.com/problems/truncate-sentence/solutions/4630792/array-1816-java-beginner-using-for-split-ak/)
 
-[]()
+[1886 Determine Whether Matrix Can Be Obtained By Rotation]()
 
 []()
 
