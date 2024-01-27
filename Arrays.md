@@ -43,7 +43,7 @@
 
 [1886 Determine Whether Matrix Can Be Obtained By Rotation]()
 
-[]()
+[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/4634669/array-867-java-using-loops-beats-100-ak/)
 
 []()
 
