@@ -51,7 +51,7 @@
 
 [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/solutions/4675373/array-53-java-using-for-math-max-ak/)
 
-[]()
+[867 Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/4634669/array-867-java-using-loops-beats-100-ak/)
 
 []()
 
