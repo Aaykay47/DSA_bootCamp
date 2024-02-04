@@ -43,13 +43,13 @@
 
 [1886 Determine Whether Matrix Can Be Obtained By Rotation]()
 
-[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/4634669/array-867-java-using-loops-beats-100-ak/)
+[867 Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/4634669/array-867-java-using-loops-beats-100-ak/)
 
-[]()
+[66 Plus One](https://leetcode.com/problems/plus-one/solutions/4675345/array-66-java-best-runtime-beats-100-00-beginner-ak/)
 
-[]()
+[1304 Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/solutions/4653110/array-1304-java-beats-100-0-beginner-ak/)
 
-[]()
+[53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/solutions/4675373/array-53-java-using-for-math-max-ak/)
 
 []()
 
