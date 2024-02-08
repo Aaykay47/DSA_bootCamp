@@ -53,9 +53,12 @@
 
 [867 Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/4634669/array-867-java-using-loops-beats-100-ak/)
 
-[]()
 
-[]()
+### Medium
+
+[162 Find Peak Element](https://leetcode.com/problems/find-peak-element/solutions/4698551/array-162-java-basic-using-binary-search-explained-ak/)
+
+[852 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/4698590/array-852-java-basic-using-binary-search-explained-ak/)
 
 []()
 
